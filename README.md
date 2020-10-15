@@ -2,7 +2,7 @@
 
 I am Sakuna, an undergrduate studying in Department of Electronic and Telecommunication Engineering, University of Moratuwa.
 
-I am intersted in Deep Learning, Machine Learning, Natural Language Processing, Computer Vision and Algorithmic Coding. I have an exposure to Robotics related applications too.
+I am intersted in Deep Learning, Machine Learning, Natural Language Processing, Computer Vision and Algorithmic Coding. I have some exposure to Robotics related applications too.
 
 #### Connect with me:
 
