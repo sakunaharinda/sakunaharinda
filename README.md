@@ -33,7 +33,7 @@ I am intersted in Deep Learning, Machine Learning, Natural Language Processing, 
 ---
 
 <img align="left" alt="Sakuna's Github Stats" src="https://github-readme-stats.sakunaharinda.vercel.app/api?username=sakunaharinda&show_icons=true&count_private=true&include_all_commits=true&&hide=prs,contribs&hide_border=true" />
-<img align="right" alt="Top Languages Used" src="https://github-readme-stats.sakunaharinda.vercel.app/api/top-langs/?username=sakunaharinda&layout=compact" />
+<!--img align="right" alt="Top Languages Used" src="https://github-readme-stats.sakunaharinda.vercel.app/api/top-langs/?username=sakunaharinda&layout=compact" -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gaber&layout=compact&hide=matlab,html)](https://github.com/anuraghazra/github-readme-stats) -->
 
