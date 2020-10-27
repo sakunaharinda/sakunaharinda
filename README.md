@@ -6,8 +6,9 @@ I am intersted in Deep Learning, Machine Learning, Natural Language Processing, 
 
 #### Connect with me:
 
-[<img align="left" alt="Sakuna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/sakuna-harinda/)
+[<img align="left" alt="Sakuna | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sakuna-harinda)
 [<img align="left" alt="Sakuna | Github" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/sakunaharinda)
+[<img align="left" alt="Sakuna | Hackerrank" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/hackerrank.svg" />](https://www.hackerrank.com/sakunaj1996)
 [<img align="left" alt="Sakuna | Medium" width="100px" src="https://theme.zdassets.com/theme_assets/224203/4cbf0061c1ec1a5716fbcb44f094909cd6e39e81.png" />](https://medium.com/@sakunaj1996)
 
 <br />
